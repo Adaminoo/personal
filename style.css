@@ -12,6 +12,19 @@ body {
     padding:50px;
     background-color:black;
     border-bottom:5px solid gray;
+    text-align: center;
+}
+
+.navbut {
+    font-family:"New Amsterdam";
+    font-size:50px;
+    text-decoration: none;
+    color:white;
+    background-color:gray;
+    padding:10px;
+    border:5px solid white; 
+    border-radius: 5px;
+    margin:0px 40px;
 }
 
 .header {
@@ -22,6 +35,8 @@ body {
     /*outline:10px solid white;*/
     margin-top:200px;
 }
+
+
 
 
 
