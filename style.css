@@ -1,8 +1,27 @@
+
+
 body {
     background-image: url(images/background.jpg);
 }
 
+.navbar {
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    padding:50px;
+    background-color:black;
+    border-bottom:5px solid gray;
+}
+
 .header {
     text-align: center;
-    
+    font-family:"New Amsterdam", sans-serif;
+    font-size:50px;
+    text-shadow:-5px -5px blue;
+    /*outline:10px solid white;*/
+    margin-top:200px;
 }
+
+
+
